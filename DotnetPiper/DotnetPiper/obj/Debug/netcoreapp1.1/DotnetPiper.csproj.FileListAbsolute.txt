@@ -1,0 +1,9 @@
+D:\Learning\DotnetPiper\DotnetPiper\bin\Debug\netcoreapp1.1\DotnetPiper.deps.json
+D:\Learning\DotnetPiper\DotnetPiper\bin\Debug\netcoreapp1.1\DotnetPiper.runtimeconfig.json
+D:\Learning\DotnetPiper\DotnetPiper\bin\Debug\netcoreapp1.1\DotnetPiper.runtimeconfig.dev.json
+D:\Learning\DotnetPiper\DotnetPiper\bin\Debug\netcoreapp1.1\DotnetPiper.dll
+D:\Learning\DotnetPiper\DotnetPiper\bin\Debug\netcoreapp1.1\DotnetPiper.pdb
+D:\Learning\DotnetPiper\DotnetPiper\obj\Debug\netcoreapp1.1\DotnetPiper.AssemblyInfo.cs
+D:\Learning\DotnetPiper\DotnetPiper\obj\Debug\netcoreapp1.1\DotnetPiper.dll
+D:\Learning\DotnetPiper\DotnetPiper\obj\Debug\netcoreapp1.1\DotnetPiper.pdb
+D:\Learning\DotnetPiper\DotnetPiper\obj\Debug\netcoreapp1.1\DotnetPiper.csprojResolveAssemblyReference.cache

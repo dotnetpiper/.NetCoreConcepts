@@ -1,0 +1,11 @@
+@model IEnumerable<DotnetPiper.Models.Articles>
+                      <h2>Recent Articles</h2>
+    <ul>
+        @foreach (var article in Model)
+    {
+            <li><b>@article.Title (@article.TotalViews)</b> - @article.PublishedDate </li>
+    }
+    </ul>
+
+   
+

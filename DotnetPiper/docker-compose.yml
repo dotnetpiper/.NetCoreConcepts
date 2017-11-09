@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+  dotnetpiper:
+    image: dotnetpiper
+    build:
+      context: ./DotnetPiper
+      dockerfile: Dockerfile

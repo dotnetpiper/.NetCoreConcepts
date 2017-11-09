@@ -1,0 +1,15 @@
+
+@*@{
+    ViewData["Title"] = "Index";
+}
+@*await Component.InvokeAsync("RecentArticles")**@
+<h2>Welcome To Dotnet Core practical practices</h2>
+
+@inject DotnetPiper.Services.ArticlesService Article
+<h2>Recent Articles</h2>
+<ul>
+    @foreach (var article in @Article.GetRecentArticles())
+    {
+        <li><b>@article.Title (@article.TotalViews)</b> - @article.PublishedDate </li>
+    }
+</ul>
